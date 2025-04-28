@@ -1,0 +1,2 @@
+# MoA-MultiAgent-Phi2-LLM-Medical-AI
+ This project implements a Mixture-of-Agents (MoA) framework combining externally fine-tuned Phi-2 (2.7B) domain specialists and GPT-3.5 for iterative medical diagnosis refinement. Using synthetic patient records from Synthea, the model employs structured collaborative reasoning to enhance diagnostic accuracy and robustness. The approach is lightweight, efficient, and optimized for local inference.
