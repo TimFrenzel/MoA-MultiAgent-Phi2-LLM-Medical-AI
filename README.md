@@ -83,12 +83,7 @@
 | **MoA-Med (ours)** | **0.64** | **0.79** | 780 | 890 |
 | **GPT-4 (33 B)** | 0.67 | 0.81 | 2 350 | 3 900 |
 
-MoA-Med closes 95 % of GPT-4 performance while consuming 3 × fewer tokens and running on commodity hardware.
-
 ---
-
-## Repository Layout
-MoA-MultiAgent-Phi2-LLM-Medical-AI/ ├── data/ # scripts & loaders for SyntheticMass ├── models/ │ └── agents/ # LoRA adapters (cardio, metabolic, generalist) ├── src/ │ ├── router.py # rule-based prompt routing │ ├── evaluate.py # agent-level inference & metrics │ ├── refine.py # GPT-3.5 refinement layer │ └── consensus.py # lightweight voting ├── notebooks/ # exploratory analysis & visualisations └── assets/ # figures (Model Architecture.jpg, results plots)
 
 ## Limitations & Future Work
 Synthetic-to-Real Gap: validate on de-identified hospital notes.
