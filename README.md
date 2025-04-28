@@ -49,13 +49,13 @@
 *Figure 1 — Rule-based router directs clinical notes to domain-specialist Phi-2 agents (Layer 1). Outputs pass to a GPT-3.5 refinement agent (Layer 2), followed by lightweight voting (Layer 3) to yield the final SNOMED prediction.*
 
 1. **Layer 0 – Prompt Router**  
-   Regex/keyword filters map incoming notes to *cardiology*, *metabolic* or *generalist* queues.  
+   Routes incoming clinical notes into specialized queues: *cardiology*, *metabolic*, *respiratory_ent*, or *generalist*.
 2. **Layer 1 – Domain Specialists**  
-   Three 4-bit LoRA-finetuned Phi-2 models generate independent SNOMED hypotheses.  
+   Four distinct 4-bit LoRA-finetuned Phi-2 models independently generate SNOMED-based diagnostic hypotheses.
 3. **Layer 2 – GPT-3.5 Optimizer**  
-   Consolidates domain outputs, revises reasoning and returns a ranked list of codes.  
+   Consolidates outputs from domain specialists, refines clinical reasoning, and produces a ranked list of ICD-10 codes.
 4. **Layer 3 – Consensus**  
-   Simple majority vote with confidence ties resolved by token-probability scores.
+   Applies majority voting, with ties resolved using token-level probability scores for confidence assessment.
 
 ---
 
