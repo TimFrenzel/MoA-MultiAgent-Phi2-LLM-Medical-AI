@@ -102,14 +102,15 @@ Confidence Calibration: add temperature scaling to consensus logits.
 
 2. Wu, Yixuan, Yutong He, Yuxiao Jiang, Yuancheng Liu, and Yang Yang. ["PMC-LLaMA: Further Finetuning LLaMA on Medical Papers"](https://arxiv.org/abs/2304.14454). *arXiv preprint arXiv:2304.14454*, 2023.
 
-3. Pieri, Sara, Sahal Shaji Mullappilly, Fahad Shahbaz Khan, Rao Muhammad Anwer, Salman Khan, Timothy Baldwin, and Hisham Cholakkal. ["BiMediX: Bilingual Medical Mixture of Experts LLM"](https://aclanthology.org/2024.findings-emnlp.1149). *Findings of the Association for Computational Linguistics: EMNLP 2024*, 2024, pp. 16984–17002.
+3. Ji, Ke, Jiahao Xu, Tian Liang, Qiuzhi Liu, Zhiwei He, Xingyu Chen, Xiaoyuan Liu, Zhijie Wang, Junying Chen, Benyou Wang, Zhaopeng Tu, and Haitao Mi. ["The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models"](https://arxiv.org/abs/2503.02875). *arXiv preprint arXiv:2503.02875*, 2025.
 
-4. Yang, Xintian, Fangyu Liu, Yue Liu, Huimin Yu, Shunian Jia, Tianyu Liu, Yang Gong, Sen Yu, and Lei Ma. ["Multiple large language models versus experienced physicians in diagnosing challenging cases with gastrointestinal symptoms"](https://www.nature.com/articles/s41746-024-01084-5). *npj Digital Medicine*, 8, 1–10, 2025.
+4. Yang, Xintian, Tongxin Li, Han Wang, et al. ["Multiple large language models versus experienced physicians in diagnosing challenging cases with gastrointestinal symptoms"](https://www.nature.com/articles/s41746-025-01486-5). *npj Digital Medicine* **8**, 85 (2025).
 
-5. Liu, Xuefeng, Chen Zhao, Yizhe Li, Zhe Wang, and Jianfeng Gao. ["The First Few Tokens Are All You Need: Unsupervised Prefix Fine-Tuning (UPFT)"](https://arxiv.org/abs/2501.00420). *arXiv preprint arXiv:2501.00420*, 2025.
+5. Jiang, Songtao, Tuo Zheng, Yan Zhang, Yeying Jin, Li Yuan, and Zuozhu Liu. ["Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models"](https://arxiv.org/abs/2404.10237). *arXiv preprint arXiv:2404.10237*, 2024.
 
-6. Jiang, Songtao, Tuo Zheng, Yan Zhang, Yeying Jin, Li Yuan, and Zuozhu Liu. ["Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models"](https://aclanthology.org/2024.findings-emnlp.319). *Findings of the Association for Computational Linguistics: EMNLP 2024*, 2024, pp. 3843–3860.
+6. Yu, Hongzhou, Tianhao Cheng, Ying Cheng, and Rui Feng. ["FineMedLM-o1: Enhancing the Medical Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training"](https://arxiv.org/abs/2501.09213). *arXiv preprint arXiv:2501.09213*, 2025.
 
+7. Wang, Yizhong, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, and Hannaneh Hajishirzi. ["Self-Instruct: Aligning Language Models with Self-Generated Instructions"](https://arxiv.org/pdf/2212.10560). *arXiv preprint arXiv:2212.10560*, 2023.
 
 ---
 
