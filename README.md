@@ -1,7 +1,7 @@
 # MoA-MultiAgent-Phi2-LLM-Medical-AI
 
 ## Abstract
-**Layered Mixture-of-Agents: Efficient Clinical Reasoning via LoRA-Finetuned LLMs** introduces **MoA-Med**, a three-layer architecture that combines lightweight, LoRA-finetuned **Phi-2** domain agents with a GPT-3.5 refinement layer and a lightweight consensus stage. Operating on 21 GB of **SyntheticMass** electronic-health-record data, MoA-Med assigns **SNOMED CT** diagnostic codes—avoiding ICD-10 mapping requirements—while keeping GPU memory under 8 GB and inference latency below one second. Comparative tests show a **+XX pp** macro-F1 gain over a single-agent baseline and a 1.8 × improvement in accuracy-per-token versus larger, monolithic models.
+Accurate and interpretable diagnostic support continues to pose significant challenges for clinical artificial intelligence. This paper **proposes MoA-Med**, a computationally efficient **Mixture-of-Agents architecture**, wherein multiple 4-bit quantized, **LoRA-finetuned Phi-2 language models** collaboratively assign ICD-10 and SNOMED codes from synthetic electronic health records (EHRs) generated using Synthea. Compared to a single finetuned Phi-2 agent, MoA-Med achieves a relative macro-F1 improvement of +14 pp, with optimal performance obtained using four domain-specialist agents. Additionally, MoA-Med maintains inference latency below 0.7 seconds and operates within an 8 GB GPU memory constraint. Experimental results demonstrate that parameter-efficient domain specialization, combined with a lightweight rule-based routing and consensus mechanism, **yields consistent but moderate improvements in diagnostic accuracy and efficiency**, making it suitable for deployment in computationally constrained environments. 
 
 ---
 

@@ -1,0 +1,11 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+2016-01-17,2016-01-31,9bde2b07-b972-4954-8d68-5f23af8c2344,106c3271-d174-49a8-bf33-2c3aa2267ee6,392151,Amoxicillin 200 MG Oral Tablet,,
+2016-01-17,2016-01-31,9bde2b07-b972-4954-8d68-5f23af8c2344,106c3271-d174-49a8-bf33-2c3aa2267ee6,198405,Ibuprofen 100 MG Oral Tablet,,
+2013-09-13,2013-10-02,5fe95854-342d-4c65-9e61-edd78fd3b57d,d3db55bc-f05e-435e-bb90-c4295417c1cc,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2006-01-27,2011-01-10,fde77fb2-1190-40ea-98c9-291efc03454e,fe398611-bc61-4bd3-84ba-024425f7071d,1359133,Estrostep Fe 28 Day Pack,,
+2008-08-29,,fde77fb2-1190-40ea-98c9-291efc03454e,fe398611-bc61-4bd3-84ba-024425f7071d,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-12-23,,1f75d47b-9e62-4d7f-a046-120a946bf0a3,fd9e0f0b-e68b-47d7-9b23-d94728641083,904420,Alendronic acid 10 MG [Fosamax],,
+1948-11-06,,78e5e18a-7bbd-4a90-9627-065049224001,d46ffc3b-766b-4603-82e0-65865c8eecee,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1985-02-11,,78e5e18a-7bbd-4a90-9627-065049224001,d46ffc3b-766b-4603-82e0-65865c8eecee,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+2012-09-01,2012-09-17,78e5e18a-7bbd-4a90-9627-065049224001,c477a295-5c48-4aa8-b17e-27eee69ceca2,313782,Acetaminophen 325 MG Oral Tablet,,
+2013-09-21,,78e5e18a-7bbd-4a90-9627-065049224001,5f35ad25-4b97-4ead-9d5c-e7687a2150c1,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)

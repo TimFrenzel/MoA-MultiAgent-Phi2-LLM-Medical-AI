@@ -1,0 +1,11 @@
+START,STOP,PATIENT,CODE,DESCRIPTION
+2016-01-17,2016-03-14,9bde2b07-b972-4954-8d68-5f23af8c2344,65363002,Otitis media
+2013-01-22,2013-02-11,37c85728-de35-4c35-98f0-769548fba917,444814009,Viral sinusitis (disorder)
+2013-04-11,,5fe95854-342d-4c65-9e61-edd78fd3b57d,38341003,Hypertension
+2013-09-13,2013-10-02,5fe95854-342d-4c65-9e61-edd78fd3b57d,10509002,Acute bronchitis (disorder)
+2010-03-30,,fde77fb2-1190-40ea-98c9-291efc03454e,38341003,Hypertension
+1987-03-21,,78e5e18a-7bbd-4a90-9627-065049224001,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder)
+2009-06-14,,78e5e18a-7bbd-4a90-9627-065049224001,422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+2012-09-01,2012-09-17,78e5e18a-7bbd-4a90-9627-065049224001,284549007,Laceration of hand
+2013-09-19,2013-10-03,78e5e18a-7bbd-4a90-9627-065049224001,43878008,Streptococcal sore throat (disorder)
+2016-10-13,,78e5e18a-7bbd-4a90-9627-065049224001,1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
